@@ -1,0 +1,27 @@
+{
+  "name": "sprout-nix-service",
+  "version": "1.0.0",
+  "description": "Sprout template for creating *nix services using init.d",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hhsnopek/sprout-nix-service.git"
+  },
+  "keywords": [
+    "sprout",
+    "nix",
+    "service",
+    "template"
+  ],
+  "author": "Henry Snopek <hhsnopek@gmail.com> (http://hhsnopek.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhsnopek/sprout-nix-service/issues"
+  },
+  "homepage": "https://github.com/hhsnopek/sprout-nix-service#readme",
+  "devDependencies": {
+    "sprout": "^0.4.4"
+  },
+  "dependencies": {
+    "babel-register": "^6.5.2"
+  }
+}
