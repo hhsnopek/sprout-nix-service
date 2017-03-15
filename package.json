@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/hhsnopek/sprout-nix-service#readme",
   "devDependencies": {
-    "sprout": "^0.4.4"
+    "sprout": "^1.2.1"
   },
   "dependencies": {
     "babel-register": "^6.5.2"
