@@ -1,5 +1,7 @@
 # Sprout *nix Service Template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hhsnopek/sprout-nix-service.svg)](https://greenkeeper.io/)
+
 Need to create a service based on a binary? I got you, cheers! :coffee:
 
 Template Credit: https://gist.github.com/bcap/5397674
